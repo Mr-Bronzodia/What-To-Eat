@@ -1,0 +1,6 @@
+[submodule "WhatToEatApi"]
+	path = WhatToEatApi
+	url = https://github.com/Mr-Bronzodia/What-To-Eat-API.git
+[submodule "WhatToEatFront"]
+	path = WhatToEatFront
+	url = https://github.com/Mr-Bronzodia/What-To-Eat-Front.git
